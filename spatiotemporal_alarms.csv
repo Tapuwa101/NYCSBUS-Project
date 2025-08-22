@@ -1,0 +1,163 @@
+H3_Cell_ID,Centroid_Lat,Centroid_Lon,Time_Period,Alarm_Type,Crash_Count,Gi_Star_Score,Priority,Recommended_Action,Hot_Period_Count
+892a100104bffff,40.8772718813882,-73.87270346482643,Week_5_08-08,Intensifying Hotspot,2,2.315,High,Deploy additional safety patrols and consider traffic interventions,1
+892a100105bffff,40.879972812397604,-73.87065703795672,Week_5_08-08,Intensifying Hotspot,2,2.315,High,Deploy additional safety patrols and consider traffic interventions,1
+892a10010dbffff,40.88548588268196,-73.8622753191058,Week_5_08-08,Intensifying Hotspot,2,2.315,High,Deploy additional safety patrols and consider traffic interventions,1
+892a100124bffff,40.876488409144244,-73.90271534379387,Week_5_08-08,Persistent Hotspot,1,-0.375,High,Coordinate with city traffic department for long-term safety improvements,3
+892a100140bffff,40.8938102227697,-73.84755469475894,Week_5_08-08,New Hotspot,2,2.315,High,Investigate recent spike in crashes and identify contributing factors,1
+892a1001473ffff,40.89110927260772,-73.84960301789768,Week_5_08-08,New Hotspot,2,2.315,High,Investigate recent spike in crashes and identify contributing factors,1
+892a10014afffff,40.88884943443858,-73.83449736105979,Week_5_08-08,New Hotspot,2,2.315,High,Investigate recent spike in crashes and identify contributing factors,1
+892a1001acfffff,40.82427347620428,-73.87504015946894,Week_5_08-08,Intensifying Hotspot,2,2.315,High,Deploy additional safety patrols and consider traffic interventions,2
+892a1001e77ffff,40.832593507983056,-73.86034084491413,Week_5_08-08,Persistent Hotspot,1,-0.375,High,Coordinate with city traffic department for long-term safety improvements,2
+892a1005047ffff,40.747958443983634,-73.75668558790582,Week_5_08-08,Persistent Hotspot,1,-0.375,High,Coordinate with city traffic department for long-term safety improvements,4
+892a1005207ffff,40.744833912609394,-73.77583359892071,Week_5_08-08,Intensifying Hotspot,2,2.315,High,Deploy additional safety patrols and consider traffic interventions,2
+892a1005433ffff,40.761857192259804,-73.72934009195119,Week_5_08-08,Intensifying Hotspot,2,2.315,High,Deploy additional safety patrols and consider traffic interventions,1
+892a1005567ffff,40.740835017629735,-73.72435289662967,Week_5_08-08,Intensifying Hotspot,2,2.315,High,Deploy additional safety patrols and consider traffic interventions,1
+892a1005c4fffff,40.71163383284694,-73.72978528655779,Week_5_08-08,Persistent Hotspot,1,-0.375,High,Coordinate with city traffic department for long-term safety improvements,4
+892a10088afffff,40.792767900423,-73.9659864682128,Week_5_08-08,Intensifying Hotspot,2,2.315,High,Deploy additional safety patrols and consider traffic interventions,3
+892a1008c37ffff,40.808968075449066,-73.95375780980022,Week_5_08-08,Persistent Hotspot,1,-0.375,High,Coordinate with city traffic department for long-term safety improvements,3
+892a1008c83ffff,40.82224127975792,-73.95212588222418,Week_5_08-08,Intensifying Hotspot,2,2.315,High,Deploy additional safety patrols and consider traffic interventions,1
+892a1008c8bffff,40.822126873516225,-73.95640836369351,Week_5_08-08,Intensifying Hotspot,2,2.315,High,Deploy additional safety patrols and consider traffic interventions,1
+892a1008cb7ffff,40.814482699048455,-73.94539797282188,Week_5_08-08,Intensifying Hotspot,2,2.315,High,Deploy additional safety patrols and consider traffic interventions,3
+892a1008d3bffff,40.79334015739645,-73.94458734180492,Week_5_08-08,Persistent Hotspot,1,-0.375,High,Coordinate with city traffic department for long-term safety improvements,2
+892a1008d4bffff,40.80086775936645,-73.95987317950902,Week_5_08-08,Intensifying Hotspot,2,2.315,High,Deploy additional safety patrols and consider traffic interventions,1
+892a1008d87ffff,40.80155262266892,-73.93418981159863,Week_5_08-08,Persistent Hotspot,2,2.315,High,Coordinate with city traffic department for long-term safety improvements,2
+892a1008d8fffff,40.80143887480697,-73.93847038880153,Week_5_08-08,Persistent Hotspot,1,-0.375,High,Coordinate with city traffic department for long-term safety improvements,3
+892a1008da3ffff,40.79626732118498,-73.93398840494557,Week_5_08-08,Persistent Hotspot,1,-0.375,High,Coordinate with city traffic department for long-term safety improvements,2
+892a1008dcbffff,40.80638230701124,-73.95151546362827,Week_5_08-08,Intensifying Hotspot,2,2.315,High,Deploy additional safety patrols and consider traffic interventions,2
+892a1008dd7ffff,40.8066106070299,-73.94295337632198,Week_5_08-08,Persistent Hotspot,1,-0.375,High,Coordinate with city traffic department for long-term safety improvements,3
+892a100a5afffff,40.88729458226248,-73.89453509659202,Week_5_08-08,Intensifying Hotspot,2,2.315,High,Deploy additional safety patrols and consider traffic interventions,1
+892a100a867ffff,40.82832474779245,-73.92234851969427,Week_5_08-08,Intensifying Hotspot,2,2.315,High,Deploy additional safety patrols and consider traffic interventions,2
+892a100a86bffff,40.83079839358019,-73.92887350172751,Week_5_08-08,Persistent Hotspot,1,-0.375,High,Coordinate with city traffic department for long-term safety improvements,2
+892a100a89bffff,40.84452704063809,-73.91009593948189,Week_5_08-08,Persistent Hotspot,1,-0.375,High,Coordinate with city traffic department for long-term safety improvements,3
+892a100a91bffff,40.82090213992676,-73.9027779039715,Week_5_08-08,Intensifying Hotspot,2,2.315,High,Deploy additional safety patrols and consider traffic interventions,3
+892a100a9bbffff,40.818539561524915,-73.89197372427012,Week_5_08-08,Intensifying Hotspot,2,2.315,High,Deploy additional safety patrols and consider traffic interventions,2
+892a100aa07ffff,40.83304403400936,-73.94396614412331,Week_5_08-08,Intensifying Hotspot,2,2.315,High,Deploy additional safety patrols and consider traffic interventions,1
+892a100ab23ffff,40.80965156765415,-73.92807004400817,Week_5_08-08,Persistent Hotspot,1,-0.375,High,Coordinate with city traffic department for long-term safety improvements,2
+892a100ab6bffff,40.81189659456596,-73.94315583855997,Week_5_08-08,Intensifying Hotspot,2,2.315,High,Deploy additional safety patrols and consider traffic interventions,1
+892a100aba3ffff,40.8151643255262,-73.91970723708859,Week_5_08-08,Persistent Hotspot,1,-0.375,High,Coordinate with city traffic department for long-term safety improvements,2
+892a100ac23ffff,40.84745265734937,-73.89948357376652,Week_5_08-08,Persistent Hotspot,1,-0.375,High,Coordinate with city traffic department for long-term safety improvements,2
+892a100ac27ffff,40.84486461929684,-73.89724247757255,Week_5_08-08,Intensifying Hotspot,2,2.315,High,Deploy additional safety patrols and consider traffic interventions,2
+892a100accbffff,40.86309460670048,-73.9086492589729,Week_5_08-08,Intensifying Hotspot,2,2.315,High,Deploy additional safety patrols and consider traffic interventions,1
+892a100ad77ffff,40.831813142599884,-73.89032406471225,Week_5_08-08,Intensifying Hotspot,2,2.315,High,Deploy additional safety patrols and consider traffic interventions,1
+892a100adb3ffff,40.83754767014328,-73.87338552964223,Week_5_08-08,Persistent Hotspot,1,-0.375,High,Coordinate with city traffic department for long-term safety improvements,3
+892a100adc7ffff,40.84250072030675,-73.88643310605704,Week_5_08-08,Intensifying Hotspot,2,2.315,High,Deploy additional safety patrols and consider traffic interventions,2
+892a100ae9bffff,40.86264251526453,-73.92579390257816,Week_5_08-08,Persistent Hotspot,2,2.315,High,Coordinate with city traffic department for long-term safety improvements,2
+892a100c097ffff,40.73186095587501,-73.86949985715385,Week_5_08-08,Intensifying Hotspot,2,2.315,High,Deploy additional safety patrols and consider traffic interventions,3
+892a100c5d3ffff,40.73758592371169,-73.85259509859722,Week_5_08-08,Persistent Hotspot,2,2.315,High,Coordinate with city traffic department for long-term safety improvements,3
+892a100c607ffff,40.74175263783957,-73.89553829702075,Week_5_08-08,Persistent Hotspot,1,-0.375,High,Coordinate with city traffic department for long-term safety improvements,2
+892a100c613ffff,40.74703431989123,-73.89573513898608,Week_5_08-08,Persistent Hotspot,1,-0.375,High,Coordinate with city traffic department for long-term safety improvements,3
+892a100c687ffff,40.74725852935127,-73.887183979588,Week_5_08-08,Intensifying Hotspot,2,2.315,High,Deploy additional safety patrols and consider traffic interventions,1
+892a100c6b7ffff,40.74208869825875,-73.88271299255817,Week_5_08-08,Intensifying Hotspot,2,2.315,High,Deploy additional safety patrols and consider traffic interventions,1
+892a100c857ffff,40.67368156901611,-73.87163906253141,Week_5_08-08,New Hotspot,2,2.315,High,Investigate recent spike in crashes and identify contributing factors,1
+892a100c8cbffff,40.678958727715525,-73.87183293136655,Week_5_08-08,Intensifying Hotspot,3,5.005,High,Deploy additional safety patrols and consider traffic interventions,1
+892a100c8dbffff,40.68165312112803,-73.86979508316257,Week_5_08-08,Intensifying Hotspot,3,5.005,High,Deploy additional safety patrols and consider traffic interventions,2
+892a100ca03ffff,40.67042807403864,-73.89501956432312,Week_5_08-08,Intensifying Hotspot,2,2.315,High,Deploy additional safety patrols and consider traffic interventions,2
+892a100ca27ffff,40.65998738926661,-73.89035907674709,Week_5_08-08,Persistent Hotspot,1,-0.375,High,Coordinate with city traffic department for long-term safety improvements,3
+892a100ca97ffff,40.676041114354256,-73.88240876618774,Week_5_08-08,New Hotspot,2,2.315,High,Investigate recent spike in crashes and identify contributing factors,1
+892a100cac7ffff,40.67570502702652,-73.89521604926605,Week_5_08-08,Persistent Hotspot,1,-0.375,High,Coordinate with city traffic department for long-term safety improvements,2
+892a100cb1bffff,40.654935338476065,-73.881628844706,Week_5_08-08,Intensifying Hotspot,2,2.315,High,Deploy additional safety patrols and consider traffic interventions,1
+892a100cb8bffff,40.65774073704909,-73.87532515322604,Week_5_08-08,Intensifying Hotspot,2,2.315,High,Deploy additional safety patrols and consider traffic interventions,1
+892a100ce37ffff,40.681541716443505,-73.87406467971299,Week_5_08-08,Intensifying Hotspot,2,2.315,High,Deploy additional safety patrols and consider traffic interventions,1
+892a100d017ffff,40.74286353089859,-73.95335316532683,Week_5_08-08,Persistent Hotspot,1,-0.375,High,Coordinate with city traffic department for long-term safety improvements,2
+892a100d153ffff,40.72971778728786,-73.9507079431418,Week_5_08-08,Persistent Hotspot,1,-0.375,High,Coordinate with city traffic department for long-term safety improvements,2
+892a100d24bffff,40.744178379188874,-74.00262255098242,Week_5_08-08,Persistent Hotspot,1,-0.375,High,Coordinate with city traffic department for long-term safety improvements,2
+892a100d25bffff,40.746877362614214,-74.00058917418733,Week_5_08-08,New Hotspot,2,2.315,High,Investigate recent spike in crashes and identify contributing factors,1
+892a100d27bffff,40.739012977644194,-73.9981387469125,Week_5_08-08,Intensifying Hotspot,3,5.005,High,Deploy additional safety patrols and consider traffic interventions,1
+892a100d287ffff,40.744872810136386,-73.97696994246623,Week_5_08-08,Persistent Hotspot,1,-0.375,High,Coordinate with city traffic department for long-term safety improvements,2
+892a100d28bffff,40.74734064563417,-73.98348648660567,Week_5_08-08,New Hotspot,2,2.315,High,Investigate recent spike in crashes and identify contributing factors,1
+892a100d297ffff,40.747571339150305,-73.97493510196136,Week_5_08-08,Persistent Hotspot,2,2.315,High,Coordinate with city traffic department for long-term safety improvements,2
+892a100d2a7ffff,40.737008197739414,-73.97452361980322,Week_5_08-08,Persistent Hotspot,1,-0.375,High,Coordinate with city traffic department for long-term safety improvements,2
+892a100d2b3ffff,40.74228959359751,-73.97472933772691,Week_5_08-08,Intensifying Hotspot,2,2.315,High,Deploy additional safety patrols and consider traffic interventions,1
+892a100d2bbffff,40.74217433224768,-73.97900455236277,Week_5_08-08,Persistent Hotspot,1,-0.375,High,Coordinate with city traffic department for long-term safety improvements,2
+892a100d2c3ffff,40.74980820333916,-73.99000374878119,Week_5_08-08,Intensifying Hotspot,2,2.315,High,Deploy additional safety patrols and consider traffic interventions,3
+892a100d2d3ffff,40.75250713772062,-73.98796942281288,Week_5_08-08,Persistent Hotspot,1,-0.375,High,Coordinate with city traffic department for long-term safety improvements,3
+892a100d2dbffff,40.75239138943488,-73.99224557931602,Week_5_08-08,Persistent Hotspot,1,-0.375,High,Coordinate with city traffic department for long-term safety improvements,2
+892a100d337ffff,40.71611609773404,-73.96515556897008,Week_5_08-08,Intensifying Hotspot,2,2.315,High,Deploy additional safety patrols and consider traffic interventions,2
+892a100d42fffff,40.75107183825058,-73.94296826979273,Week_5_08-08,Intensifying Hotspot,2,2.315,High,Deploy additional safety patrols and consider traffic interventions,1
+892a100d5bbffff,40.74377361625078,-73.91915095707063,Week_5_08-08,Intensifying Hotspot,2,2.315,High,Deploy additional safety patrols and consider traffic interventions,2
+892a100d64fffff,40.76048872668631,-73.98614194957854,Week_5_08-08,Persistent Hotspot,1,-0.375,High,Coordinate with city traffic department for long-term safety improvements,2
+892a100d86fffff,40.67950949948861,-73.95091642391299,Week_5_08-08,Persistent Hotspot,1,-0.375,High,Coordinate with city traffic department for long-term safety improvements,3
+892a100d893ffff,40.695912995603585,-73.93017028375544,Week_5_08-08,Intensifying Hotspot,2,2.315,High,Deploy additional safety patrols and consider traffic interventions,1
+892a100d933ffff,40.664475114690305,-73.92043177793778,Week_5_08-08,Intensifying Hotspot,2,2.315,High,Deploy additional safety patrols and consider traffic interventions,1
+892a100d947ffff,40.6694113617025,-73.93343678020517,Week_5_08-08,Persistent Hotspot,1,-0.375,High,Coordinate with city traffic department for long-term safety improvements,2
+892a100d963ffff,40.66413481166913,-73.93323602405931,Week_5_08-08,Intensifying Hotspot,2,2.315,High,Deploy additional safety patrols and consider traffic interventions,2
+892a100d993ffff,40.67783683386722,-73.91452621432816,Week_5_08-08,Persistent Hotspot,2,2.315,High,Coordinate with city traffic department for long-term safety improvements,2
+892a100d9cfffff,40.67480186590708,-73.92936854651914,Week_5_08-08,New Hotspot,2,2.315,High,Investigate recent spike in crashes and identify contributing factors,1
+892a100da33ffff,40.68174715424552,-73.96596182579799,Week_5_08-08,Intensifying Hotspot,2,2.315,High,Deploy additional safety patrols and consider traffic interventions,4
+892a100da43ffff,40.68926082811238,-73.98121505334214,Week_5_08-08,Persistent Hotspot,1,-0.375,High,Coordinate with city traffic department for long-term safety improvements,3
+892a100da73ffff,40.68409829353906,-73.97673891442571,Week_5_08-08,Persistent Hotspot,1,-0.375,High,Coordinate with city traffic department for long-term safety improvements,2
+892a100dc23ffff,40.69872243130249,-73.92386374848017,Week_5_08-08,Intensifying Hotspot,2,2.315,High,Deploy additional safety patrols and consider traffic interventions,1
+892a100dc37ffff,40.698835667882435,-73.91959253875253,Week_5_08-08,Intensifying Hotspot,2,2.315,High,Deploy additional safety patrols and consider traffic interventions,3
+892a100dc67ffff,40.698495485239725,-73.93240614958732,Week_5_08-08,Persistent Hotspot,1,-0.375,High,Coordinate with city traffic department for long-term safety improvements,2
+892a100dcabffff,40.704114515856446,-73.91979190786482,Week_5_08-08,Persistent Hotspot,1,-0.375,High,Coordinate with city traffic department for long-term safety improvements,2
+892a100dd37ffff,40.680757473535,-73.90395169772044,Week_5_08-08,Intensifying Hotspot,2,2.315,High,Deploy additional safety patrols and consider traffic interventions,3
+892a100dddbffff,40.69894874682683,-73.91532132297209,Week_5_08-08,Persistent Hotspot,1,-0.375,High,Coordinate with city traffic department for long-term safety improvements,2
+892a100de8bffff,40.711180214606244,-73.95213397242364,Week_5_08-08,Intensifying Hotspot,2,2.315,High,Deploy additional safety patrols and consider traffic interventions,2
+892a100de97ffff,40.711408610040806,-73.94358922641511,Week_5_08-08,Persistent Hotspot,1,-0.375,High,Coordinate with city traffic department for long-term safety improvements,2
+892a100dea7ffff,40.70085027973182,-73.94318511542686,Week_5_08-08,Persistent Hotspot,1,-0.375,High,Coordinate with city traffic department for long-term safety improvements,3
+892a100e063ffff,40.759265059059935,-73.83198028363003,Week_5_08-08,Persistent Hotspot,1,-0.375,High,Coordinate with city traffic department for long-term safety improvements,2
+892a100e263ffff,40.75849186665983,-73.86191648303539,Week_5_08-08,Intensifying Hotspot,2,2.315,High,Deploy additional safety patrols and consider traffic interventions,2
+892a100e317ffff,40.7460045956937,-73.83364379309151,Week_5_08-08,New Hotspot,2,2.315,High,Investigate recent spike in crashes and identify contributing factors,1
+892a100e44bffff,40.78590214979937,-73.82437141673405,Week_5_08-08,New Hotspot,2,2.315,High,Investigate recent spike in crashes and identify contributing factors,1
+892a100e833ffff,40.70452735074384,-73.80222513978325,Week_5_08-08,Intensifying Hotspot,2,2.315,High,Deploy additional safety patrols and consider traffic interventions,1
+892a100e853ffff,40.71475882705207,-73.81541521406038,Week_5_08-08,Intensifying Hotspot,3,5.005,High,Deploy additional safety patrols and consider traffic interventions,3
+892a100e86bffff,40.704090789974295,-73.8193115068438,Week_5_08-08,Persistent Hotspot,1,-0.375,High,Coordinate with city traffic department for long-term safety improvements,3
+892a100e8d7ffff,40.71767149322926,-73.80482707836626,Week_5_08-08,Intensifying Hotspot,2,2.315,High,Deploy additional safety patrols and consider traffic interventions,1
+892a100e973ffff,40.688800674844046,-73.79739667621536,Week_5_08-08,New Hotspot,2,2.315,High,Investigate recent spike in crashes and identify contributing factors,1
+892a100eaa7ffff,40.703981255589184,-73.82358308638015,Week_5_08-08,Intensifying Hotspot,2,2.315,High,Deploy additional safety patrols and consider traffic interventions,1
+892a100eadbffff,40.719379966566386,-73.84124100254235,Week_5_08-08,Intensifying Hotspot,2,2.315,High,Deploy additional safety patrols and consider traffic interventions,1
+892a100eb13ffff,40.69353354018187,-73.81893542362229,Week_5_08-08,New Hotspot,2,2.315,High,Investigate recent spike in crashes and identify contributing factors,1
+892a100ecabffff,40.72608024310538,-73.78587599527135,Week_5_08-08,Intensifying Hotspot,2,2.315,High,Deploy additional safety patrols and consider traffic interventions,1
+892a100ecb3ffff,40.72888263850233,-73.7795575255556,Week_5_08-08,Intensifying Hotspot,2,2.315,High,Deploy additional safety patrols and consider traffic interventions,1
+892a100edd3ffff,40.721016104765155,-73.77714547665711,Week_5_08-08,Persistent Hotspot,1,-0.375,High,Coordinate with city traffic department for long-term safety improvements,2
+892a100f167ffff,40.75512572761823,-73.88961603493024,Week_5_08-08,New Hotspot,2,2.315,High,Investigate recent spike in crashes and identify contributing factors,1
+892a100f3c7ffff,40.76771413784176,-73.91363290027259,Week_5_08-08,Persistent Hotspot,1,-0.375,High,Coordinate with city traffic department for long-term safety improvements,2
+892a100f64bffff,40.80166621211984,-73.9299092281534,Week_5_08-08,Persistent Hotspot,1,-0.375,High,Coordinate with city traffic department for long-term safety improvements,3
+892a100f6cfffff,40.80459228473499,-73.9193076189361,Week_5_08-08,Persistent Hotspot,2,2.315,High,Coordinate with city traffic department for long-term safety improvements,2
+892a103a607ffff,40.653581405724,-73.72782929088078,Week_5_08-08,New Hotspot,2,2.315,High,Investigate recent spike in crashes and identify contributing factors,1
+892a103b2dbffff,40.66434402453199,-73.82430403540567,Week_5_08-08,Intensifying Hotspot,2,2.315,High,Deploy additional safety patrols and consider traffic interventions,1
+892a103b477ffff,40.66812496086974,-73.77958175627585,Week_5_08-08,Persistent Hotspot,1,-0.375,High,Coordinate with city traffic department for long-term safety improvements,2
+892a103b4cfffff,40.67867879253719,-73.7799487836634,Week_5_08-08,Persistent Hotspot,1,-0.375,High,Coordinate with city traffic department for long-term safety improvements,2
+892a103b58bffff,40.660802113748844,-73.75583502454921,Week_5_08-08,Intensifying Hotspot,2,2.315,High,Deploy additional safety patrols and consider traffic interventions,1
+892a103b63bffff,40.667474101414875,-73.80519126471488,Week_5_08-08,Intensifying Hotspot,2,2.315,High,Deploy additional safety patrols and consider traffic interventions,1
+892a103b677ffff,40.66736507393366,-73.80945949968681,Week_5_08-08,Persistent Hotspot,1,-0.375,High,Coordinate with city traffic department for long-term safety improvements,2
+892a1062277ffff,40.62072164016077,-74.16638092660256,Week_5_08-08,Persistent Hotspot,1,-0.375,High,Coordinate with city traffic department for long-term safety improvements,2
+892a1062897ffff,40.57766470719878,-74.10268102542042,Week_5_08-08,Intensifying Hotspot,2,2.315,High,Deploy additional safety patrols and consider traffic interventions,3
+892a1072517ffff,40.76014121529479,-73.99897257450851,Week_5_08-08,Intensifying Hotspot,2,2.315,High,Deploy additional safety patrols and consider traffic interventions,2
+892a10725a3ffff,40.75767380832861,-73.99245336126558,Week_5_08-08,Intensifying Hotspot,2,2.315,High,Deploy additional safety patrols and consider traffic interventions,2
+892a10725b3ffff,40.7603730476533,-73.99041883142932,Week_5_08-08,Persistent Hotspot,1,-0.375,High,Coordinate with city traffic department for long-term safety improvements,2
+892a107292fffff,40.67554580394756,-73.9999109355292,Week_5_08-08,Persistent Hotspot,1,-0.375,High,Coordinate with city traffic department for long-term safety improvements,2
+892a1072977ffff,40.68070692059816,-74.00438888602646,Week_5_08-08,Intensifying Hotspot,2,2.315,High,Deploy additional safety patrols and consider traffic interventions,1
+892a1072987ffff,40.689029645600435,-73.9897558398456,Week_5_08-08,Persistent Hotspot,1,-0.375,High,Coordinate with city traffic department for long-term safety improvements,2
+892a1072c33ffff,40.71789033541887,-73.99730566967641,Week_5_08-08,Intensifying Hotspot,2,2.315,High,Deploy additional safety patrols and consider traffic interventions,3
+892a1072c37ffff,40.715308388090286,-73.99506519836963,Week_5_08-08,Persistent Hotspot,1,-0.375,High,Coordinate with city traffic department for long-term safety improvements,3
+892a1072c77ffff,40.71765797700752,-74.00585169022261,Week_5_08-08,Intensifying Hotspot,2,2.315,High,Deploy additional safety patrols and consider traffic interventions,2
+892a1072c8fffff,40.72586866625105,-73.99548111586327,Week_5_08-08,Persistent Hotspot,1,-0.375,High,Coordinate with city traffic department for long-term safety improvements,2
+892a1072ca3ffff,40.720704219149056,-73.99099986933716,Week_5_08-08,Persistent Hotspot,2,2.315,High,Coordinate with city traffic department for long-term safety improvements,5
+892a1072ca7ffff,40.71812206272308,-73.98875962144035,Week_5_08-08,Persistent Hotspot,2,2.315,High,Coordinate with city traffic department for long-term safety improvements,3
+892a1072cb7ffff,40.72081992828314,-73.98672659809884,Week_5_08-08,Persistent Hotspot,1,-0.375,High,Coordinate with city traffic department for long-term safety improvements,2
+892a1072cbbffff,40.72328642033247,-73.99324036746646,Week_5_08-08,Persistent Hotspot,1,-0.375,High,Coordinate with city traffic department for long-term safety improvements,2
+892a1072d23ffff,40.69712056799387,-73.98366002254876,Week_5_08-08,Persistent Hotspot,1,-0.375,High,Coordinate with city traffic department for long-term safety improvements,3
+892a1072d2bffff,40.697004966998165,-73.9879311357898,Week_5_08-08,Persistent Hotspot,1,-0.375,High,Coordinate with city traffic department for long-term safety improvements,2
+892a1072dc3ffff,40.712842263747554,-73.98855243013952,Week_5_08-08,Persistent Hotspot,1,-0.375,High,Coordinate with city traffic department for long-term safety improvements,2
+892a1072dd3ffff,40.715539951076806,-73.98651962374095,Week_5_08-08,Intensifying Hotspot,2,2.315,High,Deploy additional safety patrols and consider traffic interventions,1
+892a1074077ffff,40.5888100676114,-73.98582746112984,Week_5_08-08,New Hotspot,2,2.315,High,Investigate recent spike in crashes and identify contributing factors,1
+892a1074393ffff,40.58353886248652,-73.98562116817844,Week_5_08-08,Persistent Hotspot,1,-0.375,High,Coordinate with city traffic department for long-term safety improvements,2
+892a107452bffff,40.58703717445157,-73.95376625646743,Week_5_08-08,Intensifying Hotspot,2,2.315,High,Deploy additional safety patrols and consider traffic interventions,1
+892a107520fffff,40.60707757312334,-74.08896783650339,Week_5_08-08,New Hotspot,2,2.315,High,Investigate recent spike in crashes and identify contributing factors,1
+892a107557bffff,40.60849928717915,-74.03781099464508,Week_5_08-08,Intensifying Hotspot,4,7.696,High,Deploy additional safety patrols and consider traffic interventions,5
+892a107600bffff,40.63259643037737,-73.92776723259033,Week_5_08-08,Intensifying Hotspot,2,2.315,High,Deploy additional safety patrols and consider traffic interventions,1
+892a10760c7ffff,40.63798428699383,-73.92370155318464,Week_5_08-08,New Hotspot,2,2.315,High,Investigate recent spike in crashes and identify contributing factors,1
+892a107638bffff,40.61924146532798,-73.93366341662244,Week_5_08-08,Intensifying Hotspot,2,2.315,High,Deploy additional safety patrols and consider traffic interventions,1
+892a1076497ffff,40.657181082651846,-73.89666224819602,Week_5_08-08,Persistent Hotspot,1,-0.375,High,Coordinate with city traffic department for long-term safety improvements,2
+892a10764d3ffff,40.66211945878869,-73.90966248835261,Week_5_08-08,Persistent Hotspot,1,-0.375,High,Coordinate with city traffic department for long-term safety improvements,3
+892a1076687ffff,40.65369634299689,-73.92856752978761,Week_5_08-08,Intensifying Hotspot,2,2.315,High,Deploy additional safety patrols and consider traffic interventions,1
+892a1076693ffff,40.658972197896425,-73.92876771647629,Week_5_08-08,New Hotspot,2,2.315,High,Investigate recent spike in crashes and identify contributing factors,1
+892a10766dbffff,40.66121200787385,-73.94380522623717,Week_5_08-08,Intensifying Hotspot,2,2.315,High,Deploy additional safety patrols and consider traffic interventions,1
+892a107714fffff,40.63076068167376,-73.9960096868385,Week_5_08-08,New Hotspot,2,2.315,High,Investigate recent spike in crashes and identify contributing factors,1
+892a10773a7ffff,40.625370617715525,-74.00006668405368,Week_5_08-08,New Hotspot,2,2.315,High,Investigate recent spike in crashes and identify contributing factors,1
+892a107747bffff,40.66510823298823,-73.99522625277366,Week_5_08-08,Intensifying Hotspot,2,2.315,High,Deploy additional safety patrols and consider traffic interventions,4
+892a1077497ffff,40.673658743696336,-73.9720586112767,Week_5_08-08,Intensifying Hotspot,2,2.315,High,Deploy additional safety patrols and consider traffic interventions,3
+892a1077567ffff,40.64188779300449,-73.97509469370253,Week_5_08-08,Intensifying Hotspot,2,2.315,High,Deploy additional safety patrols and consider traffic interventions,1
+892a107756fffff,40.64177249592126,-73.97936078221628,Week_5_08-08,Persistent Hotspot,1,-0.375,High,Coordinate with city traffic department for long-term safety improvements,2
+892a10775abffff,40.64750784560415,-73.9625003174064,Week_5_08-08,Intensifying Hotspot,2,2.315,High,Deploy additional safety patrols and consider traffic interventions,1
